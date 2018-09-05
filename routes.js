@@ -3,3 +3,4 @@ const routes = module.exports = nextRoutes()
 
 routes.add('index', '/')
 routes.add('video', '/video')
+routes.add('review', '/review')
